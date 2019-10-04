@@ -1,2 +1,2 @@
 # moviesApp
-Learning to be ME
+Learning to be MERN with a broken wrist
